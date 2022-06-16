@@ -1,4 +1,4 @@
-![header](https://github.com/kyechan99/capsule-render#cylinder-)
+![header](https://github.com/kyechan99/capsule-render#cylinder-hi)
 
 
 <h3 align="center"> ✨Tech Stack ✨</h3>
