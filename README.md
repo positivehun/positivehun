@@ -4,7 +4,7 @@
 
 <h3 align="center"> ✨Tech Stack ✨</h3>
 <p align="center">
-Techs that I've used at least once <br><br>
+올라운더 개발자 <br><br>
 
 
 |||
