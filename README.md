@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Positive%20World&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=#0044ff&height=200&section=header&text=Positive%20World&fontSize=90)
 
 
 <h3 align="center"> ✨Tech Stack ✨</h3>
