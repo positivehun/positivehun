@@ -8,13 +8,7 @@
 <h3 align="center"> ✨Tech Stack ✨</h3>
 <p align="center">
 Do it Everything What I want <br><br>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=milkymhun&theme=vue&show_icons=true"
-      style="float: left;"/>
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=milkymhun"
-      style="float: left;"/>
-</p>
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milkymhun)](https://solved.ac/milkymhun/)
 
 |||
 |---|---------|
