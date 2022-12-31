@@ -19,7 +19,19 @@ Do it Everything What I want <br><br>
 |**STUDYING**| ![GIT](https://img.shields.io/badge/-Solidity-363636?&logo=Solidity&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=white)
 |**Certificate**| ![정보처리기사](https://img.shields.io/badge/-정보처리기사-363636)   ![빅데이터분석기사](https://img.shields.io/badge/-빅데이터분석기사-363636) ![ADsP](https://img.shields.io/badge/-ADsP-363636) ![SQLD](https://img.shields.io/badge/-SQLD-363636) ![OPIc](https://img.shields.io/badge/-OPIc_IH-363636)
 
+<h3 align=center> 🏅 Baekjoon solved rank 🏅 <br /><br />
+ 
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milkymhun)](https://solved.ac/jiaiha)
+ 
 
+</h3>
+
+<h3 align=center> 📚 GitHub Stats 📚 <br /><br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=positivehun&theme=buefy&show_icons=true)<br /><br />
+
+</h3>
 
 </p>
    
