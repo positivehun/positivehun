@@ -37,5 +37,4 @@ Do it Everything What I want <br><br>
 </p>
    
 
-- 🔭 I’m currently working on Samsung SW Academy For Youth(SSAFY)
-- 🌱 I’m currently learning Backend(SpringBoot & Django)
+- 🔭 Samsung SW Academy For Youth(SSAFY) 7th
