@@ -12,7 +12,7 @@ Do it Everything What I want <br><br>
 
 |||
 |---|---------|
-|**Language**|![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B) ![C++](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=Java&logoColor=white)
+|**Language**|![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B) ![C++](https://img.shields.io/badge/C-blue.svg?style=flat&logo=c%2B%2B) ![Java](https://img.shields.io/badge/-Java-3776AB?&logo=OpenJDK&logoColor=white)
 |**Backend**| ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?&logo=Node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?&logo=Spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?&logo=Spring-Boot&logoColor=white)
 |**Embedded**| ![Linux](https://img.shields.io/badge/-Linux-333333?&logo=Linux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-A22846?&logo=Raspberry-pi&logoColor=white) ![Arduino ](https://img.shields.io/badge/-Arduino-00979D?&logo=Arduino&logoColor=white)
 |**Data Science**|  ![Sklearn](https://img.shields.io/badge/-Scikit_learn-F7931E?&logo=scikit-learn&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas&logoColor=white)
