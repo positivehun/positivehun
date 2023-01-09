@@ -34,7 +34,5 @@ Do it Everything What I want <br><br>
 
 </h3>
 
-</p>
-   
 
 - 🔭 Samsung SW Academy For Youth(SSAFY) 7th
