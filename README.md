@@ -23,16 +23,8 @@ Do it Everything What I want <br><br>
 <h3 align=center> 🏅 Baekjoon solved rank 🏅 <br /><br />
  
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milkymhun)](https://solved.ac/jiaiha)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milkymhun)](https://solved.ac/milkymhun)
  
-
-</h3>
-
-<h3 align=center> 📚 GitHub Stats 📚 <br /><br />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=positivehun&theme=buefy&show_icons=true)<br /><br />
-
-</h3>
 
 
 - 🔭 Samsung SW Academy For Youth(SSAFY) 7th
