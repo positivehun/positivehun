@@ -1,11 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=몰입하는%20개발자&fontSize=90)
 
-<div align="center">
+
+<p align="center">
 ✨ [Portfolio](https://coordinated-frame-c37.notion.site/Portfolio-Backend-50ca60d3a2f1483285c9515201d7e2a9) ✨
 <br>
 🌱 [blog](https://positiv-log.tistory.com/) 🌱
- </div>
 
 
 <h3 align="center"> ✨Tech Stack ✨</h3>
