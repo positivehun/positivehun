@@ -5,8 +5,12 @@
 
 
 <h1 align="center"> Working Out Developer</h1>
-✨[Portfolio](https://coordinated-frame-c37.notion.site/Portfolio-Backend-50ca60d3a2f1483285c9515201d7e2a9)<br>
-✨[blog](https://positiv-log.tistory.com/)
+
+✨ [Portfolio](https://coordinated-frame-c37.notion.site/Portfolio-Backend-50ca60d3a2f1483285c9515201d7e2a9) ✨
+<br>
+🌱 [blog](https://positiv-log.tistory.com/) 🌱
+
+
 <h3 align="center"> ✨Tech Stack ✨</h3>
 <p align="center">
 Do it Everything What I want <br><br>
