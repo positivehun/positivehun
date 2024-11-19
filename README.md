@@ -19,7 +19,7 @@ Do it Everything What I want <br><br>
 |**Data Science**|  ![Sklearn](https://img.shields.io/badge/-Scikit_learn-F7931E?&logo=scikit-learn&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas&logoColor=white)
 |**Tool**| ![GIT](https://img.shields.io/badge/-GIT-F05032?&logo=GIT&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?&logo=Jira&logoColor=white)  ![Jira](https://img.shields.io/badge/-Jenkins-FF6F00C?&logo=Jenkins&logoColor=white)
 |**Database**| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-4479A1?&logo=Oracle&logoColor=white) 
-|**Certificate**| ![정보처리기사](https://img.shields.io/badge/-정보처리기사-363636)   ![빅데이터분석기사](https://img.shields.io/badge/-빅데이터분석기사-363636) ![ADsP](https://img.shields.io/badge/-ADsP-363636) ![SQLD](https://img.shields.io/badge/-SQLD-363636) ![OPIc](https://img.shields.io/badge/-OPIc_IH-363636)
+|**Certificate**| ![정보처리기사](https://img.shields.io/badge/-정보처리기사-363636)   ![빅데이터분석기사](https://img.shields.io/badge/-빅데이터분석기사-363636) ![ADsP](https://img.shields.io/badge/-ADsP-363636) ![SQLD](https://img.shields.io/badge/-SQLD-363636)  ![유통관리사 2급](https://img.shields.io/badge/-유통관리사 2급-363636)   ![OPIc](https://img.shields.io/badge/-OPIc_IH-363636)
 
 <h3 align=center> 🏅 Baekjoon solved rank 🏅 <br /><br />
  
