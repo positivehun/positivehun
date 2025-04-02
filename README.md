@@ -29,3 +29,5 @@ Do it Everything What I want <br><br>
 
 
 - 🔭 Samsung SW Academy For Youth(SSAFY) 7th
+
+- https://barcdog.vercel.app/ [물류바코드 / QR생성 사이트]
